@@ -19,7 +19,7 @@ The videos are in Turkish. This is where the files behind them will live, so you
     <td width="50%" valign="top">
       <sub>01 / WATCH</sub>
       <h3><a href="https://www.youtube.com/@munixel">Munixel on YouTube</a></h3>
-      <p>Hands-on tests of Claude Code, agents and automations, for people who already know the basics and want to go further.</p>
+      <p>Hands-on tests of AI models, agents and automations, for people who already use AI and want to go further.</p>
       <p><a href="https://www.youtube.com/@munixel"><b>Watch the tests →</b></a></p>
     </td>
     <td width="50%" valign="top">
